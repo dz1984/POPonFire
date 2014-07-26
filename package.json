@@ -2,6 +2,7 @@
   "name": "POPonFire",
   "version": "0.0.0",
   "description": "公有地大行動網站",
+  "private" true,
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
