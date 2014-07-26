@@ -2,13 +2,16 @@
   "name": "POPonFire",
   "version": "0.0.0",
   "description": "公有地大行動網站",
-  "private" true,
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "dz1984",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+      "url": "git://github.com/g0v/POPonFire.git"
+  },
   "devDependencies": {
     "express": "3.3.8",
     "jade": "*",
